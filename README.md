@@ -24,7 +24,7 @@ Este repositorio alberga una serie de ejercicios y prácticas básicas en el len
 
 ## Instrucciones
 
-Cada práctica se encuentra en un directorio separado con su propia descripción y código fuente. Puedes explorar estos ejercicios para aprender y practicar tus habilidades en Java. Siéntete libre de clonar este repositorio y contribuir con soluciones o mejoras.
+Cada práctica se encuentra en una carpeta separada con su propia descripción y código fuente. Puedes explorar estos ejercicios para aprender y practicar tus habilidades en Java. Siéntete libre de clonar este repositorio y contribuir con soluciones o mejoras.
 
 Esperamos que estas prácticas sean útiles para tu aprendizaje de Java. ¡Disfruta programando!
 
