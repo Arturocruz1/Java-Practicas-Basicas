@@ -7,6 +7,9 @@
 
 Bienvenido al repositorio de "Prácticas Básicas de Java". Este proyecto ha sido creado con el propósito de ayudar a principiantes a familiarizarse con los conceptos fundamentales de Java y mejorar sus habilidades de programación. 
 
+## Creador 
+* **Arturo Junior Cruz Mallqui** - [LinkedIn](https://www.linkedin.com/in/arturo-junior-cruz-mallqui-6b7741251)
+
 ## Descripción
 
 Este repositorio alberga una serie de ejercicios y prácticas básicas en el lenguaje de programación Java. Los ejercicios cubren una variedad de temas, desde control de flujo y estructuras de datos hasta programación orientada a objetos.
